@@ -1,0 +1,10 @@
+# Sanal ortam klasörleri
+venv/
+.venv/
+.venv1/
+
+# Python cache dosyaları
+__pycache__/
+
+# PyCharm proje ayarları (opsiyonel, local config)
+.idea/
